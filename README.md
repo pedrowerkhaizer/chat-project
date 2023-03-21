@@ -2,8 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/42971669/226600409-25698c9b-7d21-4d3a-9901-49ac175da227.png)
 
+You can preview the application in [here] (https://starlit-stroopwafel-be0349.netlify.app/)
 
-Backend is hosted by https://chatengine.io 
+
+Backend is hosted by https://chatengine.io \
 Components are made by https://www.npmjs.com/package/react-chat-engine
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
