@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Chat Application Project
+
+![image](https://user-images.githubusercontent.com/42971669/226600409-25698c9b-7d21-4d3a-9901-49ac175da227.png)
+
+
+Backend is hosted by https://chatengine.io 
+Components are made by https://www.npmjs.com/package/react-chat-engine
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
