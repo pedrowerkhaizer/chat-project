@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/42971669/226600409-25698c9b-7d21-4d3a-9901-49ac175da227.png)
 
-You can preview the application in [here] (https://starlit-stroopwafel-be0349.netlify.app/)
+You can preview the application in [here] (https://pedro-chat-application.netlify.app/)
 
 
 Backend is hosted by https://chatengine.io \
